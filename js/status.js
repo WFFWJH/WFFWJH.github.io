@@ -21,7 +21,7 @@ function openSettings(){
 }
 
 openShutdown = ()=>{
-    parent.showDialog("Shutdown Computer","Do you want to shutdown your computer?","Cancel","Shutdown","","location.href='https://github.com/malisipi/ubuntu-tour'")
+    parent.showDialog("Shutdown Computer","Do you want to shutdown your computer?","Cancel","Shutdown","","location.href='https://github.com/WANG-Andy-JH'")
 }
 
 lockSession=()=>{

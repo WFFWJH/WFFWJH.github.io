@@ -1,5 +1,6 @@
 body{
-    background: #550055;
+    background-image: url("../icons/unsplash/100.png");
+    /*background: #550055;*/
 }
 
 input,textarea{

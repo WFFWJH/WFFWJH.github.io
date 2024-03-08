@@ -13,7 +13,7 @@ __get_location_info = () => {
     _location.send();
 }
 
-if(localStorage["wallpaper"]==undefined) localStorage["wallpaper"]="icons/unsplash/9XngoIpxcEo.jpg";
+if(localStorage["wallpaper"]==undefined) localStorage["wallpaper"]="icons/unsplash/101.png";
 
 if(localStorage["location_date"]!=Date().toString().match(/... [0-9][0-9] [0-9][0-9][0-9][0-9]/g)){
     localStorage["location_date"]=Date().toString().match(/... [0-9][0-9] [0-9][0-9][0-9][0-9]/g);
